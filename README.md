@@ -1,1 +1,11 @@
-# todolist-reactjs
+# todo list with react.js
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
